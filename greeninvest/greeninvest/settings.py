@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-bl+hr**9%gr93^07%(b!173)c952lhu9(s-h7@ea2y-xj)j^ua
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['.versel.app','.now.sh']
 CORS_ALLOW_ALL_ORIGINS = True
 CORS_ALLOW_CREDENTIALS = True
 
